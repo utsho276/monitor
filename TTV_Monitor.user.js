@@ -12,7 +12,7 @@
     'use strict';
 
     // ============== CONFIGURATION ==============
-    const TG_TOKEN = "8274836388:AAETjh1CjBr_spoShrjaVPCIKE5hG1c0rhs";
+    const TG_TOKEN = "8274836388:AAETjh1CjBr_+spoShrjaVPCIKE5hG1c0rhs";
     const TG_CHAT_ID = "-1003737886902";
     const FILTER_KEYWORD = "TTV-Data Entry";
     
